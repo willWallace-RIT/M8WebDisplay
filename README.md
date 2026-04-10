@@ -1,3 +1,5 @@
+Modified by Will (northbot) with the intention to replace the virtual keys with a custom set from https://github.com/willWallace-RIT/virtkeys/ library
+
 # M8 Headless Web Display
 
 This is alternative frontend for [M8 Headless](https://github.com/DirtyWave/M8HeadlessFirmware).
